@@ -6,5 +6,6 @@ namespace Tinkoff.Trading.OpenApi.Helpers
 {
     class Class1
     {
+        ///
     }
 }
